@@ -1,2 +1,3 @@
-for _ in range(10):
-        print('Hello')
+for num in range(1,1+10):
+    if num%2==0:
+        print('Data')
