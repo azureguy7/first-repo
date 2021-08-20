@@ -1,3 +1,4 @@
-for _ in range(10):
-    print('Hello')
+for i in range(1,1+10):
+    if i%2==0:
+        print('Hello')
 
